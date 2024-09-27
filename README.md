@@ -12,12 +12,19 @@ longitude: Longitude of the house location.
 latitude: Latitude of the house location.
 
 housing_median_age: Median age of the houses in the area.
+
 total_rooms: Total number of rooms in the house.
+
 total_bedrooms: Total number of bedrooms in the house.
+
 population: Population of the area.
+
 households: Number of households in the area.
+
 median_income: Median income of the area.
+
 median_house_value: Median house value (target variable).
+
 ocean_proximity: Proximity to the ocean (categorical feature).
 
 ### Technologies Used
