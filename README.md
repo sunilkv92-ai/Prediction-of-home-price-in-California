@@ -51,8 +51,11 @@ Clone the repository:
 Various machine learning models are applied, including:
 
 Linear Regression
+
 Random Forest Regressor
+
 XGBoost Regressor
+
 Hyperparameter tuning is performed using Grid Search to optimize model performance.
 
 Evaluation Metrics
