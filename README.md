@@ -8,7 +8,9 @@ This project focuses on predicting home prices in California using various machi
 The dataset used for this project is housing.csv, which contains the following columns:
 
 longitude: Longitude of the house location.
+
 latitude: Latitude of the house location.
+
 housing_median_age: Median age of the houses in the area.
 total_rooms: Total number of rooms in the house.
 total_bedrooms: Total number of bedrooms in the house.
