@@ -29,33 +29,25 @@ ocean_proximity: Proximity to the ocean (categorical feature).
 
 ### Technologies Used
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
+
 XGBoost
+
 Setup Instructions
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/prediction-of-homes.git
-cd prediction-of-homes
-Install the required packages:
 
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Run the Jupyter notebook:
+### Modeling
 
-bash
-Copy code
-jupyter notebook "Prediction of homes.ipynb"
-Follow the steps in the notebook to preprocess the data, train the models, and evaluate their performance.
-
-Modeling
 Various machine learning models are applied, including:
 
 Linear Regression
