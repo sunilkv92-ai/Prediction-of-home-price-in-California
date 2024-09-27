@@ -1,4 +1,4 @@
-## Prediction of Homes in California
+## Prediction of home price in California
 
 This project focuses on predicting home prices in California using various machine learning algorithms. The dataset contains information about housing attributes, which are utilized to develop predictive models.
 
