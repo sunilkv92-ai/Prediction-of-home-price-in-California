@@ -4,6 +4,7 @@ This project focuses on predicting home prices in California using various machi
 
 
 ### Dataset
+
 The dataset used for this project is housing.csv, which contains the following columns:
 
 longitude: Longitude of the house location.
